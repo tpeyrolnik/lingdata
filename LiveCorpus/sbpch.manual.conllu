@@ -224,7 +224,7 @@
 221	не	не	PART	_	_	_	_	_	words@kgi1984m#@kgi1984m#104.382#104.632
 222	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@kgi1984m#@kgi1984m#104.632#104.882
 223	/	/	PUNCT	_	_	_	_	_	words@kgi1984m#@kgi1984m#104.882#105.132
-224	как	как	SCONG	_	_	_	_	words@kgi1984m#@kgi1984m#105.132#105.382
+224	как	как	SCONJ	_	_	_	_	words@kgi1984m#@kgi1984m#105.132#105.382
 225	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@kgi1984m#@kgi1984m#105.382#105.632
 226	назвать	назвать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@kgi1984m#@kgi1984m#105.632#105.882
 227	?	?	PUNCT	_	_	_	_	_	words@kgi1984m#@kgi1984m#105.882#106.132
@@ -282,7 +282,7 @@
 279	самые	самый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	words@kgi1984m#@kgi1984m#122.792#123.121
 280	страшные	страшный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	words@kgi1984m#@kgi1984m#123.121#123.45
 281	мысли	мысль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	words@kgi1984m#@kgi1984m#123.45#123.779
-282	которые	который	SCONJ	_	_	_	_	words@kgi1984m#@kgi1984m#123.779#124.108
+282	которые	который	PRON	_	Case=Nom	_	_	_	_	words@kgi1984m#@kgi1984m#123.779#124.108
 283	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@kgi1984m#@kgi1984m#124.108#124.437
 284	прийти	прийти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@kgi1984m#@kgi1984m#124.437#124.766
 285	/	/	PUNCT	_	_	_	_	_	words@kgi1984m#@kgi1984m#124.766#125.095
@@ -310,7 +310,7 @@
 307	очень	очень	ADV	_	Degree=Pos	_	_	_	words@kgi1984m#@kgi1984m#130.744#130.98
 308	плох...плохо	плохо	ADV	_	Degree=Pos	_	_	_	words@kgi1984m#@kgi1984m#130.98#131.216
 309	смотрите	смотреть	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@kgi1984m#@kgi1984m#131.216#131.452
-310	что	что	SCONJ	_	_	_	_	words@kgi1984m#@kgi1984m#131.452#131.688
+310	что	что	PRON _ Case=Acc	_	_	_	words@kgi1984m#@kgi1984m#131.452#131.688
 311	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@kgi1984m#@kgi1984m#131.688#131.924
 312	сделал	сделать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@kgi1984m#@kgi1984m#131.924#132.16
 313	невероятное	невероятный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	words@kgi1984m#@kgi1984m#132.16#132.396
@@ -363,7 +363,7 @@
 360	/	/	PUNCT	_	_	_	_	_	words@kgi1984m#@kgi1984m#145.373#145.644
 361	эээ	эээ	INTJ	_	_	_	_	words@kgi1984m#@kgi1984m#145.644#145.915
 362	н...	н...	X	_	_	_	_	_	words@kgi1984m#@kgi1984m#145.915#146.186
-363	которые	который	SCONJ	_	_	_	_	words@kgi1984m#@kgi1984m#146.186#146.457
+363	которые	который	PRON	_	Case=Nom	_	_	_	_	words@kgi1984m#@kgi1984m#146.186#146.457
 364	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2	_	_	_	words@kgi1984m#@kgi1984m#146.457#146.728
 365	не	не	PART	_	_	_	_	_	words@kgi1984m#@kgi1984m#146.728#146.999
 366	дают	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@kgi1984m#@kgi1984m#146.999#147.27
@@ -1199,7 +1199,7 @@
 1196	и	и	CCONJ	_	_	_	_	_	words@emb1984f#@emb1984f#35.098#35.332
 1197	/	/	PUNCT	_	_	_	_	_	words@emb1984f#@emb1984f#35.332#35.566
 1198	и	и	CCONJ	_	_	_	_	_	words@emb1984f#@emb1984f#35.566#35.8
-1199	кто	кто	SCONJ	_	_	_	_	words@emb1984f#@emb1984f#35.8#36.034
+1199	кто	кто	PRON	_	Case=Nom	_	_	_	_	words@emb1984f#@emb1984f#35.8#36.034
 1200	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	words@emb1984f#@emb1984f#36.034#36.268
 1201	интересен	интересный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	_	_	_	words@emb1984f#@emb1984f#36.268#36.502
 1202	да	да	PART	_	_	_	_	_	words@emb1984f#@emb1984f#36.502#36.736
